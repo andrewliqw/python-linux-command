@@ -1,0 +1,9 @@
+# cloud 9 configuration
+.c9/
+
+# pycharm configuration
+.idea/
+
+# temp diretory
+tmp/
+
