@@ -18,6 +18,8 @@ setup(
     author='Andrew Li',
     author_email='andrewliqw@outlook.com',
     
+    license='MIT',
+    
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Programming Language :: Python :: 3.5',
