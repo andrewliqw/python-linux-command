@@ -8,15 +8,23 @@ the same to linux command pwd? That is the reason to have this python module.
 
 Note: This module only support Python 3.5+ and Linux.
 
+## Installation
+
+https://pypi.python.org/pypi/allinux
+
+```shell
+pip install allinux
+```
+
 ## Usage
 
 ```python
-from allinux import linux
+from allinux import coreutils, shbuiltins
 
 
 # current working directory
-linux.pwd()
+shbuiltins.pwd()
 
 # change to home directory
-linux.cd()
+shbuiltins.cd()
 ```
