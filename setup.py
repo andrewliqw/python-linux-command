@@ -8,7 +8,7 @@ from setuptools import setup, find_packages
 setup(
     name='allinux',
     
-    version='0.1.0',
+    version='0.2.0',
     
     description='Linux command collections',
     long_description='Linux command collections',
