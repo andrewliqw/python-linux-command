@@ -27,4 +27,9 @@ shbuiltins.pwd()
 
 # change to home directory
 shbuiltins.cd()
+
+
+# coreutils.system_context
+coreutils.uname('-a')
+coreutils.uname('-s -o -r')
 ```
